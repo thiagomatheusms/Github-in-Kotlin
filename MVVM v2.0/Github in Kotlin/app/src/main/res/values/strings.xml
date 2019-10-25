@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github in Kotlin</string>
+    <string name="content_image_repository">Foto do perfil criador do repositório</string>
+    <string name="content_repository_username">O criador desse repositório é:</string>
+</resources>
